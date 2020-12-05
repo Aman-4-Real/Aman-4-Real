@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=Aman-4-Real)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&layout=compact)](https://github.com/Aman-4-Real/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real" align="right" width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real" align="right" width="35%">
 
 - 👨‍🎓 I’m currently a postgraduate student in GSAI@RUC.
 - 🌱 I’m currently learning NLP.
