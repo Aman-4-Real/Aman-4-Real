@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Aman-4-Real/Aman-4-Real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi there is Aman.
+- 👨‍🎓 I’m currently a postgraduate student in GSAI@RUC.
+- 🌱 I’m currently learning NLP.
+- 📫 How to reach me: caoqian4real@ruc.edu.cn
+- 👾 I almost just started building my GitHub and hope to get continuous progress.
+
+![](https://img.shields.io/badge/dynamic/json?color=success&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAman-4-Real)
+![](https://visitor-badge.glitch.me/badge?page_id=Aman-4-Real)
+
+[![Aman-4-Real's github stats](https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast)](https://github.com/Aman-4-Real/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real)](https://github.com/Aman-4-Real/github-readme-stats)
