@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&layout=compact)](https://github.com/Aman-4-Real/github-readme-stats) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real" align="right" width="34%"> -->
 
-- 👨‍🎓 I’m a master student in GSAI@RUC.
+<!-- - 👨‍🎓 I’m a master student in GSAI@RUC. -->
 - 🌱 I’m currently learning NLP, especially NLG, dialogue, and multimodality.
-- 📫 Reach me AT: caoqian4real@ruc.edu.cn
+- 📫 Reach me AT: cq335955781@gmail.com
 <!--
 - 👾 I almost just started building my GitHub and hope to get continuous progress.
 -->
