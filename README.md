@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=Aman-4-Real)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&layout=compact)](https://github.com/Aman-4-Real/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="right" width="34%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="right" width="33%">
 
 <!-- - 👨‍🎓 I’m a master student in GSAI@RUC. -->
 - 🌱 I’m currently learning NLP, especially NLG, dialogue, and multimodality.
