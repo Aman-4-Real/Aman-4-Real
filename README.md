@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍🎓 I’m a master student in GSAI@RUC. -->
 - 🌱 I’m currently learning NLP, especially NLG, dialogue, and multimodality.
-- 📫 Reach me AT: cq335955781@gmail.com
+- 📫 Reach me AT: caoqian4real@gmail.com
 <!--
 - 👾 I almost just started building my GitHub and hope to get continuous progress.
 -->
