@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/528161f3-f45b-42df-9471-ff565c03c604.svg)](https://wakatime.com/@528161f3-f45b-42df-9471-ff565c03c604)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&layout=compact)](https://github.com/Aman-4-Real/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="right" width="35%">
+
 
 <!-- - 👨‍🎓 I’m a master student in GSAI@RUC. -->
 - 🌱 I’m currently focusing on NLG, Dialogue Systems, and Multi-modality.
 - 👾 For more about me: https://aman-4-real.github.io/
 - 📫 Reach me AT: caoqian4real@gmail.com
 <!-- [![Aman-4-Real's github stats](https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast)](https://github.com/Aman-4-Real/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast" width="50%">
-
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast" align="left" width="57%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="right" width="37%">
 
