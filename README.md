@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 📫 Reach me AT: caoqian4real@gmail.com
 <!-- [![Aman-4-Real's github stats](https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast)](https://github.com/Aman-4-Real/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast" align="left" width="57%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="right" width="37%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="left" width="37%">
 
