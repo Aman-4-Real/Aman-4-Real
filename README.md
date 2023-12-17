@@ -23,10 +23,24 @@ Here are some ideas to get you started:
 
 
 <!-- - 👨‍🎓 I’m a master student in GSAI@RUC. -->
-- 🌱 I’m currently focusing on NLG, Dialogue Systems, and Multi-modality.
-- 👾 For more about me: https://aman-4-real.github.io/
+- 🌱 A Ph.D. student at GSAI, Renmin University of China.
+- 👨‍💻 I’m currently focusing on text generation problems in LLM and multimodal scenarios.
+- 👾 More about me: https://aman-4-real.github.io/
 - 📫 Reach me AT: caoqian4real@gmail.com
 <!-- [![Aman-4-Real's github stats](https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast)](https://github.com/Aman-4-Real/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast" align="left" width="55%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="left" width="35%">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast" align="left" width="55%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="left" width="35%"> -->
+
+
+<table><tr><td valign="top" width="56.3%">
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+
+</td><td valign="top" width="43.7%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&hide=C++,C,M4,Makefile,XSLT,Yacc,Lex&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>
+
 
