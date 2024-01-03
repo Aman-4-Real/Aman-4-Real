@@ -32,14 +32,16 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="left" width="35%"> -->
 
 
-<table><tr><td valign="top" width="56.3%">
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-
-</td><td valign="top" width="43.7%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&hide=C++,C,M4,Makefile,XSLT,Yacc,Lex&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="56.3%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="43.7%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&hide=C++,C,M4,Makefile,XSLT,Yacc,Lex&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>  
 
 <br/>
 
