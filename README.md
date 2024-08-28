@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aman-4-Real&show_icons=true&theme=highcontrast" align="left" width="55%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-4-Real&exclude_repo=PL0_Compiler&langs_count=4&theme=highcontrast" align="left" width="35%"> -->
 
-
-![](https://github.com/Aman-4-Real/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Aman-4-Real/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
+<a href="https://github.com/jstrieb/github-stats">
+  <img src="https://github.com/Aman-4-Real/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Aman-4-Real/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 
 <!-- 
